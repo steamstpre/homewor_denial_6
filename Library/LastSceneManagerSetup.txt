@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/denial_homework_6.unity
+  isLoaded: 1
+  isActive: 1
